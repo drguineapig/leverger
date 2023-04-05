@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb36db6-7f5e-4234-b673-29fee523aca6" name="Changes" comment="ajout des première classes">
-      <change afterPath="$PROJECT_DIR$/src/image/menuLeverger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/utils/ImageJeux.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/utils/ImageMenu.java" afterDir="false" />
+    <list default="true" id="adb36db6-7f5e-4234-b673-29fee523aca6" name="Changes" comment="ajout des classes menus, et des premières images sur la classe menuimage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/leverger/application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/application/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/leverger/scene/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/scene/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/leverger/utils/GestionDeScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/utils/GestionDeScene.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680683630035</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajout des classes menus, et des premières images sur la classe menuimage">
+      <created>1680685252822</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680685252822</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ajout des première classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout des première classes" />
+    <MESSAGE value="ajout des classes menus, et des premières images sur la classe menuimage" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout des classes menus, et des premières images sur la classe menuimage" />
   </component>
 </project>
