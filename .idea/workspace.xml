@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb36db6-7f5e-4234-b673-29fee523aca6" name="Changes" comment="modification de la gestion des scenes (tout est pris en charge par la classe GestionDeScene)">
+    <list default="true" id="adb36db6-7f5e-4234-b673-29fee523aca6" name="Changes" comment="commit de 11:18, et rajout de bouton (j'ai pas d'idée de nom)">
+      <change afterPath="$PROJECT_DIR$/src/image/diamant.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/leverger/scene/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/scene/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/leverger/utils/ImageMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/utils/ImageMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +39,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "C:/Users/ecole/Desktop/BUT/nouvelle année/SAE/leVerger/leverger/src/image",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ecole\Desktop\BUT\nouvelle année\SAE\leVerger\leverger\src\image" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ecole\Desktop\BUT\nouvelle année\SAE\leVerger\leverger\src\image" />
     </key>
@@ -86,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680685556999</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit de 11:18, et rajout de bouton (j'ai pas d'idée de nom)">
+      <created>1680686309014</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680686309014</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +117,7 @@
     <MESSAGE value="ajout des première classes" />
     <MESSAGE value="ajout des classes menus, et des premières images sur la classe menuimage" />
     <MESSAGE value="modification de la gestion des scenes (tout est pris en charge par la classe GestionDeScene)" />
-    <option name="LAST_COMMIT_MESSAGE" value="modification de la gestion des scenes (tout est pris en charge par la classe GestionDeScene)" />
+    <MESSAGE value="commit de 11:18, et rajout de bouton (j'ai pas d'idée de nom)" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit de 11:18, et rajout de bouton (j'ai pas d'idée de nom)" />
   </component>
 </project>
