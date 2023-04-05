@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb36db6-7f5e-4234-b673-29fee523aca6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/application/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/utils/GestionDeScene.java" afterDir="false" />
+    <list default="true" id="adb36db6-7f5e-4234-b673-29fee523aca6" name="Changes" comment="ajout des première classes">
+      <change afterPath="$PROJECT_DIR$/src/image/menuLeverger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/utils/ImageJeux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/utils/ImageMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/leverger/application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/application/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/leverger/scene/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/leverger/scene/Menu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +39,27 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ecole\Desktop\BUT\nouvelle année\SAE\leVerger\leverger\src\image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.leverger.application.Application" />
+      <module name="leverger" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1680682365838</updated>
     </task>
+    <task id="LOCAL-00001" summary="ajout des première classes">
+      <created>1680683630035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680683630035</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajout des première classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout des première classes" />
   </component>
 </project>
